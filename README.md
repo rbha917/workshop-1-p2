@@ -1,5 +1,7 @@
 # workshop-1-p2
 
+### Link to sketch: https://rbha917.github.io/workshop-1-p2/
+
 ## Functions & Loops
 	random (0, width) means generate a random number between 0 and width
 	X ++ means x + 1
