@@ -1,12 +1,9 @@
 function setup() {
   createCanvas(500, 500)
+  background(220);
   for (let x = 0; x < 30; x++) {
-    icecream(random(0, width), random(0, height), random(0, 200), color(255, 0, 0));
+    icecream(random(0,width), random(0,height), 30, color(0, 255, 255))
   }
-}
-
-function draw() {
-  
 }
 
 function icecream(x, y, size, colour) {
